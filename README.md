@@ -25,7 +25,7 @@ I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I
 </p>
 
 ## 🖥️ Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binayak-panda-94b7b5277)
 
 
 ---
