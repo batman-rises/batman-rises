@@ -1,31 +1,34 @@
-# Hi there, I'm BiNayak 👋
+# Hi there, I'm be-Nayak 👋
 
-I'm a passionate **Full Stack Developer** with a deep interest in **Web Development** using the **MERN Stack**. Currently, I'm gearing up to dive into the fascinating worlds of **Machine Learning (ML)**, **Deep Learning (DL)**, and **Generative AI**.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+ML+%26+DL;Blockchain+Explorer)
 
-### 🚀 Technologies & Tools:
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, Mongoose
-- **Other Tools:** Git, GitHub, Postman, VSCode
-- **Learning Next:** Machine Learning, Deep Learning, Blockchain
+I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I'm currently exploring the exciting fields of **Machine Learning**, **Deep Learning**, and **Generative AI**. 🌱
 
-### 🌱 Current Learning Journey:
-- 🧠 Exploring **Machine Learning** and **AI** concepts through the **Machine Learning Specialization** by Andrew Ng.
-- 📜 Planning to delve into **Blockchain**, **Web3**, and **DevOps** soon.
+## 🚀 Technologies & Tools I Use:
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🔧 Ongoing Projects:
+- 🌍 **[YELPCAMP](https://github.com/batman-rises/YELPCAMP):** A full-stack app for reviewing and discovering campgrounds. 
+- 📦 **[Your GitHub Projects](https://github.com/batman-rises?tab=repositories):** Explore more cool projects here.
+
   
-### 🔧 Ongoing Projects:
-- **YELPCAMP:** A full-stack app to review and discover campgrounds.
-- More exciting projects are in the pipeline!
+## 📈 GitHub Stats:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batman-rises&show_icons=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=batman-rises&theme=radical&hide_border=true" />
+</p>
 
-### 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=batman-rises&show_icons=true&theme=radical)
-
-
-### 📝 Let's Connect:
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+## 🖥️ Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 
 ---
 
-This README will give your GitHub profile a personalized and interactive feel, showing your progress, projects, and future goals.
+![GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
