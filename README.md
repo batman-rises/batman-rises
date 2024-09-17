@@ -18,7 +18,7 @@ I'm a passionate **Full Stack Developer** with a deep interest in **Web Developm
 - More exciting projects are in the pipeline!
 
 ### 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=batman-rises&show_icons=true&theme=radical)
 
 
 ### 📝 Let's Connect:
