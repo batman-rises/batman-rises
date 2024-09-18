@@ -27,6 +27,14 @@ I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batman-rises&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=batman-rises&theme=radical&hide_border=true" />
 </p>
+## 📊 GitHub Stats & Languages
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batman-rises&show_icons=true&theme=radical)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batman-rises&layout=compact&theme=radical)
+
 
 ## 🖥️ Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/binayak-panda-94b7b5277)
