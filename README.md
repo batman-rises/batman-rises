@@ -27,9 +27,7 @@ I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batman-rises&show_icons=true&hide_border=true&theme=radical" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=batman-rises&theme=radical&hide_border=true" />
 </p>
-## 📊 GitHub Stats & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batman-rises&show_icons=true&theme=radical)
 
 ### 💻 Most Used Languages
 
