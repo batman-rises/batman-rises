@@ -17,6 +17,10 @@ I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I
 - 🌍 **[YELPCAMP](https://github.com/batman-rises/YELPCAMP):** A full-stack app for reviewing and discovering campgrounds. 
 - 📦 **[Your GitHub Projects](https://github.com/batman-rises?tab=repositories):** Explore more cool projects here.
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=batman-rises&color=blue)
+
   
 ## 📈 GitHub Stats:
 <p align="center">
