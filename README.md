@@ -1,6 +1,6 @@
 # Hi there, I'm be-Nayak 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Learning+ML+%26+DL;Problem+Solver;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Strive+Learn+Develop;MERN+Stack+Enthusiast;Problem+Solver;)
 
 I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I'm currently exploring the exciting fields of **Machine Learning**, **Deep Learning**, and **Generative AI**. 🌱
 
