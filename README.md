@@ -4,7 +4,8 @@
 
 I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I'm currently exploring the exciting fields of **Machine Learning**, **Deep Learning**, and **Generative AI**. 🌱
 
-**300+** DSA Problems Solved
+DSA Profile : ![Codolio](https://codolio.com/profile/batman)
+
 ## 🚀 Technologies & Tools I Use:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -15,8 +16,7 @@ I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔧 Ongoing Projects:
-- 🌍 **[YELPCAMP](https://github.com/batman-rises/YELPCAMP):** A full-stack app for reviewing and discovering campgrounds. 
-- 📦 **[Your GitHub Projects](https://github.com/batman-rises?tab=repositories):** Explore more cool projects here.
+ * updating soon
 
 ## 👀 Profile Views
 
