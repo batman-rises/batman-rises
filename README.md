@@ -1,11 +1,11 @@
 # Hi there, I'm be-Nayak 👋
-
+### A Lifelong Learner
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&width=435&lines=Strive->+Learn->+Develop.;MERN+Stack+Enthusiast;Problem+Solver;)
 
-I'm a passionate **Full Stack Developer** working with the **MERN Stack**, and I'm currently exploring the exciting fields of **Machine Learning**, **Deep Learning**, and **Generative AI**. 🌱
+> I'm constantly striving to become a better version of myself every day. Passionate about **Development** and **Data Structures & Algorithms (DSA)**. Always curious, always learning.
 
-DSA Profile : ![Codolio](https://codolio.com/profile/batman)
-
+- [Visit my DSA Profile](https://codolio.com/profile/batman)
+  
 ## 🚀 Technologies & Tools I Use:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -17,10 +17,6 @@ DSA Profile : ![Codolio](https://codolio.com/profile/batman)
 
 ## 🔧 Ongoing Projects:
  * updating soon
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=batman-rises&color=blue)
 
   
 ## 📈 GitHub Stats:
