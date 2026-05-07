@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Binayak Panda
 
-### Full Stack Developer | MERN Enthusiast | Problem Solver
+### Full Stack Developer | MERN and Springboot Enthusiast | Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
